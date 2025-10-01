@@ -24,18 +24,12 @@
 ## Сборка и запуск
 
 ### 1. Требования
-- **Visual Studio 2019/2022** (или любой другой C++17 компилятор)  
-- **SFML 2.5+** (графическая библиотека)  
+- **Visual Studio 2019/2022** (или любой другой C++17 компилятор)   
 
 ### 2. Сборка (Visual Studio)
-1. Клонировать репозиторий:
-   ```bash
-   git clone https://github.com/USERNAME/test-data-generator.git
-   cd test-data-generator
-   ```
-2. Открыть проект `TestDataGen.cpp` в Visual Studio.  
-3. Подключить библиотеки SFML (`sfml-graphics`, `sfml-window`, `sfml-system`).  
-4. Собрать проект (`Ctrl+Shift+B`).  
+1. Клонировать репозиторий.
+2. Открыть проект `TestDataGen.cpp` в Visual Studio.   
+3. Собрать проект (`Ctrl+Shift+B`).  
 
 ### 3. Запуск
 - Если запустить без аргументов → откроется **GUI**.  
