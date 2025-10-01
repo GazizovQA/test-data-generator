@@ -79,6 +79,10 @@ TestDataGen.exe --type financial --count 200 --format csv
 TestDataGen.exe --type invalid --count 50 --preset sql
 ```
 
+---
+## Результат сохраняется в файл в текущей рабочей директории!
+---
+
 
 ---
 
