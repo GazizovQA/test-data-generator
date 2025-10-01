@@ -1,0 +1,17 @@
+# Visual Studio files
+.vs/
+*.vcxproj.user
+*.vcxproj.filters
+*.vcxproj.user
+*.sln.docstates
+*.suo
+*.user
+*.userosscache
+*.aps
+*.ncb
+*.opendb
+*.opensdf
+*.sdf
+*.db
+*.cachefile
+*.exe
